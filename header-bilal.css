@@ -1,0 +1,27 @@
+.header {
+  height: 90px;
+
+
+  background-color: aqua;
+  border: none;
+  margin-top: -15px;
+  margin-right: -10px;
+  margin-left: -10px;
+  z-index: 100;
+}
+
+.page-title, .title-p {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 150%;
+  margin-top: 15px;
+}
+
+.bilal-logo {
+  height: 90px;
+  position: fixed;
+  width: 310px;
+  z-index: 100;
+  top: 0px;
+}

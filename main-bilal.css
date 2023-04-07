@@ -1,0 +1,9 @@
+.main, .iframe-div,.iframe {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  height: 700px;
+  margin-left: -3px;
+  margin-right: -3px;
+  border: none;
+}
