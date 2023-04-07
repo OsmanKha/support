@@ -7,5 +7,8 @@
   margin-right: -3px;
   border: none;
 }
-
-
+@media (max-width:600px) {
+  .main, .iframe-div,.iframe {
+    height: 1400px;
+  }
+}
