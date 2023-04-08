@@ -9,6 +9,6 @@
 }
 @media  only screen and (max-width:991px) {
   .main, .iframe-div,.iframe {
-    height: 2000px;
+    height: 1600px;
   }
 }
