@@ -10,6 +10,17 @@
   margin: 0;
 }
 
+@media (max-width:600px) {
+  .close-button, .menubar {
+    top: 90px;
+    right: -50px;
+    z-index: 10;
+    width: 11.29%;
+    height: 66px;
+    border-radius: 0px 200% 70% 0px;
+  }
+}
+
 .content-title {
   padding: 5px;
   font-family: fantasy;
