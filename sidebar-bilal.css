@@ -21,7 +21,7 @@
   }
 }
 @media (max-width:600px) {
-  .sidebar,  footer, .address, .bilal-logo {
+  .sidebar,  footer, .address, .monthly-content, .bilal-logo {
     width: 90%;
   }
 }
