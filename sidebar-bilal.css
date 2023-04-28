@@ -20,13 +20,13 @@
     border-radius: 0px 200% 70% 0px;
   }
 }
-@media (max-width:600px) {
+@media  only screen {
   .sidebar,  footer, .address, .monthly-content, .bilal-logo {
     width: 90%;
   }
 }
 
-@media (max-width:600px) {
+@media  only screen {
   .footer {
     width: 80%;
     right: 10%;
